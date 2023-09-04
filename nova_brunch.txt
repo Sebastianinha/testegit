@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 eu moro em MG
 Brasil
+=======
+eu moro em MG
+>>>>>>> 7106497133a03e1032ec306e1251d661f90281e6
